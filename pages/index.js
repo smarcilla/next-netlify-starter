@@ -6,15 +6,16 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Las chapas de werty</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Las chapas de werty" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Aqui os presento mi coleccion de chapas de ultima generación.
         </p>
+        <img src='images/2022-12-30 14.42.29.jpg'/>        
       </main>
 
       <Footer />

@@ -25,6 +25,10 @@ code {
   padding: 0.75rem;
   font-family: Menlo, Monaco, Lucida Console, Courier New, monospace;
 }
+img{
+  width: 300px;
+  height: 300px;
+}
 
 .container {
   height: 100vh;
@@ -33,3 +37,4 @@ code {
   justify-content: center;
   align-items: center;
 }
+
